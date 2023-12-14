@@ -1,0 +1,44 @@
+body {
+  background-color: #1a1a1a; /* Dark background color */
+  color: #ffffff; /* White text color */
+}
+
+.container {
+  padding: 50px;
+}
+
+.navbar {
+  background-color: #4d0082; /* Dark purple navbar background color */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff; /* White navbar link color */
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-color: #ffffff; /* White color for the navbar toggle icon */
+}
+
+.jumbotron {
+  background-color: #4d0082; /* Dark purple jumbotron background color */
+  color: #ffffff; /* White text color in jumbotron */
+}
+
+.card {
+  background-color: #331a33; /* Dark purple card background color */
+  color: #ffffff; /* White text color in cards */
+}
+
+.card-header {
+  background-color: #4d0082; /* Dark purple card header background color */
+  color: #ffffff; /* White text color in card headers */
+}
+
+.shadow-white {
+  box-shadow: 0 0 20px #e5bfff; /* Adjust the shadow properties as needed */
+}
+
+.header-bg {
+  background: url("/src/subtle-prism.svg") no-repeat center center fixed;
+  background-size: cover;
+}
